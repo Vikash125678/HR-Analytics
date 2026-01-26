@@ -1,6 +1,6 @@
-# 📊 HR Analytics – Workforce, Attrition & Risk Analysis (Power BI)
+# 📊 **HR Analytics – Workforce, Attrition & Risk Analysis (Power BI)**
 
-## 📌 Project Overview
+## 📌 **Project Overview**
 
 This project is an **end-to-end HR Analytics solution** built to analyze workforce composition, attrition trends, and employee risk factors.  
 The goal is to help HR leadership **identify high-risk employees**, understand **attrition drivers**, and take **data-driven HR actions** using interactive Power BI dashboards.
@@ -8,7 +8,7 @@ The goal is to help HR leadership **identify high-risk employees**, understand *
 The solution covers the complete analytics lifecycle — from **raw data ingestion and SQL transformation** to **Power BI modeling, DAX calculations, and business-ready insights**.
 
 
-## 🎯 Business Problems Addressed
+## 🎯 **Business Problems Addressed**
 
 - Limited visibility into workforce size and composition  
 - No clear understanding of attrition drivers  
@@ -18,7 +18,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🧠 Project Objectives
+## 🧠 **Project Objectives**
 - Build a centralized HR analytics system  
 - Create multi-page dashboards for major HR functions  
 - Identify attrition drivers and high-risk employee segments  
@@ -26,7 +26,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 **Tools & Technologies Used**
 
 - **SQL (MySQL)** – Data cleaning, transformation, joins  
 - **Excel** – Initial data validation  
@@ -36,7 +36,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🔄 Data Pipeline & Workflow
+## 🔄 **Data Pipeline & Workflow**
 1. Raw employee CSV data loaded into MySQL  
 2. Data cleaned, standardized, and validated using SQL  
 3. Employee and attrition data joined into an analysis-ready dataset  
@@ -47,14 +47,14 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 📂 Dataset Summary
+## 📂 **Dataset Summary**
 - **1,470 employee records**  
 - **35 HR attributes per employee**  
 - Covers demographics, job details, tenure, performance, satisfaction, and attrition indicators  
 
 ---
 
-## 📊 Dashboards Included
+## 📊 **Dashboards Included**
 
 ### 1️⃣ Executive Overview
 - High-level workforce KPIs for leadership decision-making  
@@ -78,7 +78,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🔍 Key Insights
+## 🔍 **Key Insights**
 - **1,470 employees** analyzed across the organization  
 - **Sales and R&D** show the highest attrition risk  
 - **72 employees** overdue for promotion  
@@ -87,7 +87,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 💼 Business Impact
+## 💼 **Business Impact**
 - Enables early identification of attrition risk  
 - Supports promotion planning and workload balancing  
 - Helps reduce overtime and employee burnout  
@@ -96,7 +96,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🔑 Key Recommendations
+## 🔑 **Key Recommendations**
 - Fast-track promotions for employees with **4+ years in the same role**  
 - Reduce overtime in **Sales, R&D, and IT** through workload rebalancing  
 - Prioritize **high-risk employees** with targeted retention interventions  
@@ -106,7 +106,7 @@ The solution covers the complete analytics lifecycle — from **raw data ingesti
 
 ---
 
-## 🖼 Dashboard Preview
+## 🖼 **Dashboard Preview**
 
 - **Executive Overview**  
 - **Workforce Analysis**  
